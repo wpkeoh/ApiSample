@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wpkeoh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wpkeoh\\.nuget\\packages"
+    ]
+  }
+}
